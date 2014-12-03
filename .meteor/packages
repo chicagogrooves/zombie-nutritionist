@@ -7,4 +7,5 @@ meteor-platform
 autopublish
 insecure
 deanius:at-at
+reactive-var
 
